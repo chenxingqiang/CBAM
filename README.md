@@ -1,7 +1,37 @@
 # CBAM
-Convolutional Attention Block Module
 
-[https://eccv2018.org/openaccess/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf]
-![CBAM_image](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-01234-2_1/MediaObjects/474212_1_En_1_Fig2_HTML.gif)
+Convolutional Attention Block Module focusing on CBAM.
 
-Implemented in PyTorch.
+## Overview
+
+This repository contains a Python project.
+
+## Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+
+```bash
+# Add installation instructions here
+```
+
+## Usage
+
+```bash
+# Add usage examples here
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Keywords
+
+cbam, python, cbam_image
